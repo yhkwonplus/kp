@@ -1,5 +1,5 @@
 ---
-title: '- You're My Pretty Star (Feat. SBGB) (가장 예쁜 별을 너에게 (Feat. 새벽공방))'
+title: "- You're My Pretty Star (Feat. SBGB) (가장 예쁜 별을 너에게 (Feat. 새벽공방))"
 menu_order: 1
 post_status: publish
 post_excerpt: 
