@@ -1,5 +1,5 @@
 ---
-title: '- Taylor Swift - You're Losing Me (From The Vault)'
+title: "- Taylor Swift - You're Losing Me (From The Vault)"
 menu_order: 1
 post_status: publish
 post_excerpt: 
