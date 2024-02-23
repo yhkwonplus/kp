@@ -1,5 +1,5 @@
 ---
-title: '차은우(ASTRO) - You're the best'
+title: 차은우(ASTRO) - You're the best
 menu_order: 1
 post_status: publish
 post_excerpt: 
