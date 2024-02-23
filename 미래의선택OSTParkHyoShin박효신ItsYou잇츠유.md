@@ -1,5 +1,5 @@
 ---
-title: '- 미래의 선택 OST Park Hyo Shin (박효신) - It's You (잇츠유)'
+title: "- 미래의 선택 OST Park Hyo Shin (박효신) - It's You (잇츠유)"
 menu_order: 1
 post_status: publish
 post_excerpt: 
